@@ -1,5 +1,5 @@
 # Nginx config file for CakePHP application 
-Nginx config file for CakePHP application running with PHP-FPM
+Nginx config file for CakePHP application running on PHP-FPM
 
 You should copy the application.conf to "sites-available" path
 ``
